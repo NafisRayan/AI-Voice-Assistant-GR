@@ -1,0 +1,8 @@
+torch
+gradio
+yt-dl
+transformers
+ffmpeg-python
+tempfile
+os
+time
